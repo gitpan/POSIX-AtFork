@@ -19,3 +19,4 @@ t/001_basic.t
 t/002_add.t
 t/003_delete.t
 t/004_pid.t
+t/005_system.t
